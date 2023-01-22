@@ -1,17 +1,15 @@
 # Hi there, I'm @mkmagaya 👋
 
-# Bootcamp alert
-- [Cloud and DevOps Series](https://github.com/saadhaxxan/Cloud-and-Devops-Series) is going on.
+<img align="right" alt="" src="https://i1.rgstatic.net/ii/profile.image/886923086290944-1588470350772_Q512/Makomborero-Magaya.jpg" width="350" height="350" />
 
-<img align="right" alt="" src="backend-show.png" width="350" height="350" />
-
-## My Backend Engineering Show
-- [The Backend Engineering Show with Saad Hassan](https://www.youtube.com/playlist?list=PLx8CItc_kq60ORFN7NVaD2xae_WystDOa)
+## My Experience as Computer Scientist in AI
+- [Coming Soon...]
 
 ### I'm a Software Engineer, AI Engineer!
 - 🌱 I’m currently expanding my knowledge in Data Engineering and DevOps
 - 👀 I'm looking for open for part time projects
 - 💞️ I’m looking to collaborate with other content creators and developers.
+- 💞️ I’m interested in stocks investments and agric ventures
 - 🥅 2023 Goals: Contribute and participate in collaborative projects.
 
 <h2><i>💻 Tech Stack</i></h2>
