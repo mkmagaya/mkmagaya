@@ -10,6 +10,7 @@
 - 💞️ I’m interested in stocks investments and agric ventures
 - 🥅 2023 Goals: Contribute and participate in collaborative projects.
 
+<br>
 <h2><i>💻 Tech Stack</i></h2>
 
 <table width="100">
