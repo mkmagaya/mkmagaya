@@ -2,10 +2,7 @@
 
 <img align="right" alt="" src="https://i1.rgstatic.net/ii/profile.image/886923086290944-1588470350772_Q512/Makomborero-Magaya.jpg" width="350" height="350" />
 
-## My Experience as Computer Scientist in AI
-- [Coming Soon...]
-
-### I'm a Software Engineer, AI Engineer!
+### I'm a Software/AI Engineer and an aspiring Data Scientist!
 - 🌱 I’m currently expanding my knowledge in Data Engineering and DevOps
 - 👀 I'm looking for open for part time projects
 - 💞️ I’m looking to collaborate with other content creators and developers.
