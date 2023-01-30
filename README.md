@@ -11,6 +11,7 @@
 - 🥅 2023 Goals: Contribute and participate in collaborative projects.
 
 <br>
+<br>
 <h2><i>💻 Tech Stack</i></h2>
 
 <table width="100">
