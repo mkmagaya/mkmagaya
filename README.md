@@ -12,8 +12,9 @@
 
 <br>
 <br>
+<br>
 <h2><i>💻 Tech Stack</i></h2>
-
+<br>
 <table width="100">
 <tr>
     <td align='center' width="190">
