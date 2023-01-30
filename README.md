@@ -1,7 +1,8 @@
 # Hi there, I'm @mkmagaya 👋
 
 <img align="right" alt="" src="https://i1.rgstatic.net/ii/profile.image/886923086290944-1588470350772_Q512/Makomborero-Magaya.jpg" width="350" height="350" />
-<br>
+
+
 ### I'm a Software/AI Engineer and an aspiring Data Scientist!
 - 🌱 I’m currently expanding my knowledge in Data Engineering and DevOps
 - 👀 I'm looking for open for part time projects
