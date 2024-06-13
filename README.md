@@ -8,7 +8,7 @@
 - 👀 I'm looking for open for part time projects
 - 💞️ I’m looking to collaborate with other content creators and developers.
 - 💞️ I’m interested in stocks investments and agric ventures
-- 🥅 2023 Goals: Contribute and participate in collaborative projects.
+- 🥅 2024 Goals: Contribute and participate in collaborative projects.
 
 <br>
 <br>
